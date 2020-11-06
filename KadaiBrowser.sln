@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KadaiBrowser", "KadaiBrowser.csproj", "{1E46A8AD-D336-4BC7-A3CC-F5E1CCCCCE33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E46A8AD-D336-4BC7-A3CC-F5E1CCCCCE33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E46A8AD-D336-4BC7-A3CC-F5E1CCCCCE33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E46A8AD-D336-4BC7-A3CC-F5E1CCCCCE33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E46A8AD-D336-4BC7-A3CC-F5E1CCCCCE33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F65A6F0D-23CC-44BF-B916-3BAC27B82CE4}
+	EndGlobalSection
+EndGlobal

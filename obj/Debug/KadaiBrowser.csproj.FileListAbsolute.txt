@@ -1,0 +1,9 @@
+C:\Users\pc\source\repos\KadaiBrowser\bin\Debug\KadaiBrowser.exe.config
+C:\Users\pc\source\repos\KadaiBrowser\bin\Debug\KadaiBrowser.exe
+C:\Users\pc\source\repos\KadaiBrowser\bin\Debug\KadaiBrowser.pdb
+C:\Users\pc\source\repos\KadaiBrowser\obj\Debug\KadaiBrowser.Form1.resources
+C:\Users\pc\source\repos\KadaiBrowser\obj\Debug\KadaiBrowser.Properties.Resources.resources
+C:\Users\pc\source\repos\KadaiBrowser\obj\Debug\KadaiBrowser.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\KadaiBrowser\obj\Debug\KadaiBrowser.exe
+C:\Users\pc\source\repos\KadaiBrowser\obj\Debug\KadaiBrowser.pdb
+C:\Users\pc\source\repos\KadaiBrowser\obj\Debug\KadaiBrowser.csprojAssemblyReference.cache
